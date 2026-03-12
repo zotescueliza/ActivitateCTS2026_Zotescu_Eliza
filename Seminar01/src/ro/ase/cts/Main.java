@@ -1,4 +1,4 @@
-package ro.ase.cts.main;
+package ro.ase.cts;
 
 import ro.ase.cts.animals.*;
 import ro.ase.cts.zoo.Zoo;
