@@ -1,6 +1,10 @@
-package ro.ase.cts.proxy.clase;
+package ro.ase.cts.proxy.proxy;
 
-public class AutobuzCursaSpeciala implements MijlocDeTransport{
+import ro.ase.cts.proxy.clase.MijlocDeTransport;
+import ro.ase.cts.proxy.clase.Statie;
+import ro.ase.cts.proxy.clase.TipCursa;
+
+public class AutobuzCursaSpeciala implements MijlocDeTransport {
 
     private MijlocDeTransport mijlocDeTransport;
 
